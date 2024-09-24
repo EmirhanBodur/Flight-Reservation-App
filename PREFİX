@@ -1,0 +1,1086 @@
+{
+    "flights": [
+        {
+            "lastUpdatedAt": "2024-09-22T09:47:17.435+02:00",
+            "actualLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "aircraftType": {
+                "iataMain": "32S",
+                "iataSub": "318"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM5827",
+                    "CI9290",
+                    "DL8400",
+                    "GA9557",
+                    "G35024",
+                    "KL2002",
+                    "MK9390",
+                    "MU1681",
+                    "UU8240"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:13:55.786+02:00",
+            "flightDirection": "A",
+            "flightName": "CI9290",
+            "flightNumber": 9290,
+            "id": "140702902418695194",
+            "isOperationalFlight": true,
+            "mainFlight": "AF1240",
+            "prefixIATA": "CI",
+            "prefixICAO": "CAL",
+            "airlineCode": 44,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "CDG"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:14:11.095+02:00",
+            "actualLandingTime": "2024-09-22T08:15:42.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "10"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6446",
+                    "CZ1350",
+                    "DL9279",
+                    "G35579",
+                    "KQ1952",
+                    "MF9723",
+                    "SK6675"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:15:42.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:42:23.053+02:00",
+            "flightDirection": "A",
+            "flightName": "CZ1350",
+            "flightNumber": 1350,
+            "id": "140702902481608662",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1916",
+            "prefixIATA": "CZ",
+            "prefixICAO": "CSN",
+            "airlineCode": 43,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "ZRH"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:22:04.290+02:00",
+            "actualLandingTime": "2024-09-22T08:23:50.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "9"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AZ3741",
+                    "BT6024",
+                    "CZ1365",
+                    "DL9503",
+                    "KQ1276",
+                    "MF9745",
+                    "MU1640",
+                    "SK6697",
+                    "VS6968"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:23:50.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:50:42.564+02:00",
+            "flightDirection": "A",
+            "flightName": "CZ1365",
+            "flightNumber": 1365,
+            "id": "140702902481608746",
+            "isOperationalFlight": true,
+            "mainFlight": "KL0922",
+            "prefixIATA": "CZ",
+            "prefixICAO": "CSN",
+            "airlineCode": 43,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "EDI"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T08:36:41.676+02:00",
+            "actualLandingTime": "2024-09-22T08:26:17.000+02:00",
+            "aircraftType": {
+                "iataMain": "77F",
+                "iataSub": "77X"
+            },
+            "estimatedLandingTime": "2024-09-22T08:26:17.000+02:00",
+            "flightDirection": "A",
+            "flightName": "CZ451",
+            "flightNumber": 451,
+            "id": "140702901979133642",
+            "isOperationalFlight": true,
+            "mainFlight": "CZ451",
+            "prefixIATA": "CZ",
+            "prefixICAO": "CSN",
+            "airlineCode": 43,
+            "publicFlightState": {
+                "flightStates": [
+                    "LND"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "PVG"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "F",
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:09:18.277+02:00",
+            "actualLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "11"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6356",
+                    "CI8588",
+                    "CZ7767",
+                    "DL9438",
+                    "GA9247",
+                    "G35681",
+                    "KQ1662",
+                    "MF9318",
+                    "MU1840",
+                    "SV6340"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:44:09.141+02:00",
+            "flightDirection": "A",
+            "flightName": "CZ7767",
+            "flightNumber": 7767,
+            "id": "140702902482227538",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1510",
+            "prefixIATA": "CZ",
+            "prefixICAO": "CSN",
+            "airlineCode": 43,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "BCN"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T09:47:17.435+02:00",
+            "actualLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "aircraftType": {
+                "iataMain": "32S",
+                "iataSub": "318"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM5827",
+                    "CI9290",
+                    "DL8400",
+                    "GA9557",
+                    "G35024",
+                    "KL2002",
+                    "MK9390",
+                    "MU1681",
+                    "UU8240"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:13:55.786+02:00",
+            "flightDirection": "A",
+            "flightName": "DL8400",
+            "flightNumber": 8400,
+            "id": "140702902568531578",
+            "isOperationalFlight": true,
+            "mainFlight": "AF1240",
+            "prefixIATA": "DL",
+            "prefixICAO": "DAL",
+            "airlineCode": 58,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "CDG"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:22:22.352+02:00",
+            "actualLandingTime": "2024-09-22T08:19:00.000+02:00",
+            "aircraftType": {
+                "iataMain": "EMJ",
+                "iataSub": "295"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AF8366",
+                    "AZ3736",
+                    "DL9174",
+                    "G35529",
+                    "KQ1440",
+                    "VS6900"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:19:00.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T08:57:23.189+02:00",
+            "flightDirection": "A",
+            "flightName": "DL9174",
+            "flightNumber": 9174,
+            "id": "140702902568625196",
+            "isOperationalFlight": true,
+            "mainFlight": "KL0910",
+            "prefixIATA": "DL",
+            "prefixICAO": "DAL",
+            "airlineCode": 58,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "ABZ"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:14:11.095+02:00",
+            "actualLandingTime": "2024-09-22T08:15:42.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "10"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6446",
+                    "CZ1350",
+                    "DL9279",
+                    "G35579",
+                    "KQ1952",
+                    "MF9723",
+                    "SK6675"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:15:42.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:42:23.053+02:00",
+            "flightDirection": "A",
+            "flightName": "DL9279",
+            "flightNumber": 9279,
+            "id": "140702902568627944",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1916",
+            "prefixIATA": "DL",
+            "prefixICAO": "DAL",
+            "airlineCode": 58,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "ZRH"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:09:18.277+02:00",
+            "actualLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "11"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6356",
+                    "CI8588",
+                    "CZ7767",
+                    "DL9438",
+                    "GA9247",
+                    "G35681",
+                    "KQ1662",
+                    "MF9318",
+                    "MU1840",
+                    "SV6340"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:44:09.141+02:00",
+            "flightDirection": "A",
+            "flightName": "DL9438",
+            "flightNumber": 9438,
+            "id": "140702902568633122",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1510",
+            "prefixIATA": "DL",
+            "prefixICAO": "DAL",
+            "airlineCode": 58,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "BCN"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:22:04.290+02:00",
+            "actualLandingTime": "2024-09-22T08:23:50.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "9"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AZ3741",
+                    "BT6024",
+                    "CZ1365",
+                    "DL9503",
+                    "KQ1276",
+                    "MF9745",
+                    "MU1640",
+                    "SK6697",
+                    "VS6968"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:23:50.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:50:42.564+02:00",
+            "flightDirection": "A",
+            "flightName": "DL9503",
+            "flightNumber": 9503,
+            "id": "140702902568635628",
+            "isOperationalFlight": true,
+            "mainFlight": "KL0922",
+            "prefixIATA": "DL",
+            "prefixICAO": "DAL",
+            "airlineCode": 58,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "EDI"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:09:20.395+02:00",
+            "actualLandingTime": "2024-09-22T08:22:13.000+02:00",
+            "aircraftType": {
+                "iataMain": "EMJ",
+                "iataSub": "E90"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "8"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AF5132",
+                    "AZ3761",
+                    "DL9560",
+                    "G35531",
+                    "KQ1540",
+                    "VS6994"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:22:13.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:44:21.247+02:00",
+            "flightDirection": "A",
+            "flightName": "DL9560",
+            "flightNumber": 9560,
+            "id": "140702902568636066",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1018",
+            "prefixIATA": "DL",
+            "prefixICAO": "DAL",
+            "airlineCode": 58,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "LBA"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T09:47:17.435+02:00",
+            "actualLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "aircraftType": {
+                "iataMain": "32S",
+                "iataSub": "318"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM5827",
+                    "CI9290",
+                    "DL8400",
+                    "GA9557",
+                    "G35024",
+                    "KL2002",
+                    "MK9390",
+                    "MU1681",
+                    "UU8240"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:13:55.786+02:00",
+            "flightDirection": "A",
+            "flightName": "G35024",
+            "flightNumber": 5024,
+            "id": "140702903051750402",
+            "isOperationalFlight": true,
+            "mainFlight": "AF1240",
+            "prefixIATA": "G3",
+            "prefixICAO": "GLO",
+            "airlineCode": 4918,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "CDG"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:22:22.352+02:00",
+            "actualLandingTime": "2024-09-22T08:19:00.000+02:00",
+            "aircraftType": {
+                "iataMain": "EMJ",
+                "iataSub": "295"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AF8366",
+                    "AZ3736",
+                    "DL9174",
+                    "G35529",
+                    "KQ1440",
+                    "VS6900"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:19:00.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T08:57:23.189+02:00",
+            "flightDirection": "A",
+            "flightName": "G35529",
+            "flightNumber": 5529,
+            "id": "140702903051764102",
+            "isOperationalFlight": true,
+            "mainFlight": "KL0910",
+            "prefixIATA": "G3",
+            "prefixICAO": "GLO",
+            "airlineCode": 4918,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "ABZ"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:09:20.395+02:00",
+            "actualLandingTime": "2024-09-22T08:22:13.000+02:00",
+            "aircraftType": {
+                "iataMain": "EMJ",
+                "iataSub": "E90"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "8"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AF5132",
+                    "AZ3761",
+                    "DL9560",
+                    "G35531",
+                    "KQ1540",
+                    "VS6994"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:22:13.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:44:21.247+02:00",
+            "flightDirection": "A",
+            "flightName": "G35531",
+            "flightNumber": 5531,
+            "id": "140702903051764160",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1018",
+            "prefixIATA": "G3",
+            "prefixICAO": "GLO",
+            "airlineCode": 4918,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "LBA"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:14:11.095+02:00",
+            "actualLandingTime": "2024-09-22T08:15:42.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "10"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6446",
+                    "CZ1350",
+                    "DL9279",
+                    "G35579",
+                    "KQ1952",
+                    "MF9723",
+                    "SK6675"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:15:42.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:42:23.053+02:00",
+            "flightDirection": "A",
+            "flightName": "G35579",
+            "flightNumber": 5579,
+            "id": "140702903051764472",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1916",
+            "prefixIATA": "G3",
+            "prefixICAO": "GLO",
+            "airlineCode": 4918,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "ZRH"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:09:18.277+02:00",
+            "actualLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "11"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6356",
+                    "CI8588",
+                    "CZ7767",
+                    "DL9438",
+                    "GA9247",
+                    "G35681",
+                    "KQ1662",
+                    "MF9318",
+                    "MU1840",
+                    "SV6340"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:44:09.141+02:00",
+            "flightDirection": "A",
+            "flightName": "G35681",
+            "flightNumber": 5681,
+            "id": "140702903051767268",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1510",
+            "prefixIATA": "G3",
+            "prefixICAO": "GLO",
+            "airlineCode": 4918,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "BCN"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:09:18.277+02:00",
+            "actualLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "11"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM6356",
+                    "CI8588",
+                    "CZ7767",
+                    "DL9438",
+                    "GA9247",
+                    "G35681",
+                    "KQ1662",
+                    "MF9318",
+                    "MU1840",
+                    "SV6340"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:20:30.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:44:09.141+02:00",
+            "flightDirection": "A",
+            "flightName": "GA9247",
+            "flightNumber": 9247,
+            "id": "140702902943459918",
+            "isOperationalFlight": true,
+            "mainFlight": "KL1510",
+            "prefixIATA": "GA",
+            "prefixICAO": "GIA",
+            "airlineCode": 85,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "BCN"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T09:47:17.435+02:00",
+            "actualLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "aircraftType": {
+                "iataMain": "32S",
+                "iataSub": "318"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AM5827",
+                    "CI9290",
+                    "DL8400",
+                    "GA9557",
+                    "G35024",
+                    "KL2002",
+                    "MK9390",
+                    "MU1681",
+                    "UU8240"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:14:21.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:13:55.786+02:00",
+            "flightDirection": "A",
+            "flightName": "GA9557",
+            "flightNumber": 9557,
+            "id": "140702902943468206",
+            "isOperationalFlight": true,
+            "mainFlight": "AF1240",
+            "prefixIATA": "GA",
+            "prefixICAO": "GIA",
+            "airlineCode": 85,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "CDG"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:22:22.352+02:00",
+            "actualLandingTime": "2024-09-22T08:19:00.000+02:00",
+            "aircraftType": {
+                "iataMain": "EMJ",
+                "iataSub": "295"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "13"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AF8366",
+                    "AZ3736",
+                    "DL9174",
+                    "G35529",
+                    "KQ1440",
+                    "VS6900"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:19:00.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T08:57:23.189+02:00",
+            "flightDirection": "A",
+            "flightName": "KL0910",
+            "flightNumber": 910,
+            "id": "140702903538550292",
+            "isOperationalFlight": true,
+            "mainFlight": "KL0910",
+            "prefixIATA": "KL",
+            "prefixICAO": "KLM",
+            "airlineCode": 100,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "ABZ"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2024-09-22T10:22:04.290+02:00",
+            "actualLandingTime": "2024-09-22T08:23:50.000+02:00",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "9"
+                ]
+            },
+            "codeshares": {
+                "codeshares": [
+                    "AZ3741",
+                    "BT6024",
+                    "CZ1365",
+                    "DL9503",
+                    "KQ1276",
+                    "MF9745",
+                    "MU1640",
+                    "SK6697",
+                    "VS6968"
+                ]
+            },
+            "estimatedLandingTime": "2024-09-22T08:23:50.000+02:00",
+            "expectedTimeOnBelt": "2024-09-22T09:50:42.564+02:00",
+            "flightDirection": "A",
+            "flightName": "KL0922",
+            "flightNumber": 922,
+            "id": "140702903538550370",
+            "isOperationalFlight": true,
+            "mainFlight": "KL0922",
+            "prefixIATA": "KL",
+            "prefixICAO": "KLM",
+            "airlineCode": 100,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "EDI"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2024-09-22T08:35:00.000+02:00",
+            "scheduleDate": "2024-09-22",
+            "scheduleTime": "08:35:00",
+            "serviceType": "J",
+            "terminal": 2,
+            "schemaVersion": "4"
+        }
+    ]
+}
